@@ -10,15 +10,15 @@ Yalda Khoja
 The repository is split into two parts, Error correction and simulations.  
 The error correction folder holds the error correction script, .py file and data from several error correction runs.  The folder is further split up into T18D+G82R, T80D, and WT folders. These contain 8 folders each in which the output of each error correction run has been stored.  
 -Error correction ranges are:  
-1  
+-1  
 > 889-1420
 
 
-2
+-2
 > 3631-5705
 
 
-3
+-3
 >1-6950
 
 
