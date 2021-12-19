@@ -34,7 +34,7 @@ The simulations folder contains....
 
 ## Error correction script
 Here you will find the Error correction script and .py files.  
--The script requires a folder with ONLY a folder named 'data'.  
+-The script requires a directory with ONLY itself and a folder named 'data'.  
 -In the folder the .csv files format data should be entered.  
 This .csv file need 2 rows.  
 When running the .exe file a cmd promt will appear and ask for the following:  
