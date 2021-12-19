@@ -1,13 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "P5-Group-5.324"
+- family-names: "Nielsen,"
+  given-names: "Christian Damsgaard"
+- family-names: "Koch"
+  given-names: "Jacob"
+  - family-names: "Bach"
+  given-names: "Joachim"
+  - family-names: "Sørensen"
+  given-names: "Mark Buje"
+  - family-names: "Winckler-Carlsen"
+  given-names: "Tobias"
+  - family-names: "Khoja"
+  given-names: "Yalda"
+title: "Github P5-Group-5.324"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2021-12-19
